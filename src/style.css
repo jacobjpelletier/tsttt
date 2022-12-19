@@ -2,6 +2,7 @@ body,
 html {
   margin: 0;
   background-color: slategray;
+  background-image: url("https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 * {
   box-sizing: border-box;
@@ -18,7 +19,7 @@ html {
   padding: 2rem 0;
   font-family: sans-serif;
   text-align: center;
-  background-color: oldlace;
+  background-color: #bfffee;
 }
 
 #board {
